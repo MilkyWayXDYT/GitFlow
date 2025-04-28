@@ -35,5 +35,10 @@ namespace LearnMyCalculatorApp
                 return null;
             }
         }
+		
+		public double Circle(int r)
+		{
+			return r * r * Math.PI;
+		}
     }
 }
