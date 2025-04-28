@@ -36,7 +36,7 @@ namespace LearnMyCalculatorApp
             }
         }
 		
-		public double Circle(int r)
+		public double CircleArea(int r)
 		{
 			return r * r * Math.PI;
 		}
