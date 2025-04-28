@@ -1,0 +1,14 @@
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.AssemblyInfoInputs.cache
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.AssemblyInfo.cs
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.csproj.CoreCompileInputs.cache
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.exe
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.deps.json
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.runtimeconfig.json
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.dll
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\bin\Debug\net8.0\LearnMyCalculatorApp.pdb
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.dll
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\refint\LearnMyCalculatorApp.dll
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.pdb
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\LearnMyCalculatorApp.genruntimeconfig.cache
+E:\Учеба\Тестирование\Практика\Вместе\LearnMyCalculatorApp\LearnMyCalculatorApp\obj\Debug\net8.0\ref\LearnMyCalculatorApp.dll

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnMyCalculatorApp", "LearnMyCalculatorApp\LearnMyCalculatorApp.csproj", "{B57B67E6-8E45-4276-BA1E-9B8B2B94E741}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LearnMyCalcularotApp.Tests", "LearnMyCalcularotApp.Tests\LearnMyCalcularotApp.Tests.csproj", "{A08CC2CD-CCF8-48C0-933D-240C9BB496D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B57B67E6-8E45-4276-BA1E-9B8B2B94E741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B57B67E6-8E45-4276-BA1E-9B8B2B94E741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B57B67E6-8E45-4276-BA1E-9B8B2B94E741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B57B67E6-8E45-4276-BA1E-9B8B2B94E741}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A08CC2CD-CCF8-48C0-933D-240C9BB496D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A08CC2CD-CCF8-48C0-933D-240C9BB496D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A08CC2CD-CCF8-48C0-933D-240C9BB496D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A08CC2CD-CCF8-48C0-933D-240C9BB496D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
